@@ -1,0 +1,7 @@
+1a. b1
+1b. 11
+2. Reset all outputs.
+3. The output pin is now 01.
+4. The wire is carrying an error value. e.g. connect the input wires together or connect the output wires together.
+5. The value at that point is ‘unknown’. 
+6. True.
