@@ -1,4 +1,4 @@
-     Doodle Jump
+Doodle Jump
 ====================
 
 Welcome to Doodle jump!
