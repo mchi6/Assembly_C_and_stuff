@@ -1,15 +1,19 @@
 FROGGER
 ====================
 
-USAGE
-make vba
+AUTHOR
 
+Dan Sun
 
 HOW TO PLAY
 
+```
+make vba
+```
+
 You have 5 frogs that you need to navigate to the other side of the river. Remember do not get hit by cars, poisoned by snakes or eaten by crocodiles. Life is FULL of danger!
 
-Press <START> to start your journey. Press <UP>, <DOWN>, <LEFT> and <RIGHT> to navigate your frogs. You can reset your game at any time by pressing <SELECT>. 
+Press START to start your journey. Press UP, DOWN, LEFT and RIGHT to navigate your frogs. You can reset your game at any time by pressing SELECT. 
 
 Good luck and have fun!
 
