@@ -1,10 +1,6 @@
 FROGGER
 ====================
 
-AUTHOR  Dan Sun
-
-
-
 HOW TO PLAY
 
 ```
